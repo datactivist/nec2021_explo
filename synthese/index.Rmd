@@ -36,16 +36,22 @@ layout: true
 ---
 
 class: center, top, nec
+layout: true
 
-## Test
-
----
 
 ---
 
+## .nec_h2[Test 1]
+
+---
+
+## .nec_h2[Test 2]
+
+
+---
 
 class: inverse, center, middle
 
-# Merci !
+# .nec_h2[Merci !]
 
-Contact : [guillaume@datactivist.coop](mailto:guillaume@datactivist.coop).
+.nec_h2[Contact : [guillaume@datactivist.coop](mailto:guillaume@datactivist.coop)]
