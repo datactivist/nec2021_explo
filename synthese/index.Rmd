@@ -1,0 +1,113 @@
+---
+title: "Self data territorial La Rochelle"
+subtitle: "réflexion sur le recrutement<br>rentrée 2021"
+author: "Sylvain Lapoix, Datactivist &<br>Romain Le Gall, Numéricité"
+date: "01/09/2021"
+output:
+  SlidesDatactivist::moon_reader:
+    css: [default, datactivist, datactivist-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      highlightSpans: true
+      countIncrementalSlides: false
+params:
+  event: Self data LR - recrutement rentrée 2021
+    
+---
+
+layout: true
+  
+
+`r paste0("<div class='my-footer'><span>", params$event, "</span> <center><div class=logo><img src='https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/fond_noir_monochrome.png' width='100px'></center></span></div>")` 
+
+
+<style type="text/css">
+
+
+.yellow-h{
+   background: #ffff88;
+}
+
+.blue-h{
+   background: #83c7fc;
+}
+
+.red-h{
+   background: #A77694;
+}
+
+
+.caption {
+  text-align: right;
+  font-size: .8rem;
+}
+
+.redred {
+  color: #ff0000;
+}
+
+.green {
+  color: #00ff00;
+}
+
+.orange {
+  color: #ffa500;
+
+}
+
+
+.blue {
+  color: #0000ff;
+
+}
+
+.quote {
+  font-family: 'Rokkitt';
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+}
+
+
+
+.pull-left-wide {
+  width: 65%;
+  float: left;
+}
+
+.pull-right-wide {
+  width: 65%;
+  float: right;
+}
+
+.pull-right-narrow {
+  width: 30%;
+  float: right;
+}
+
+.pull-left-narrow {
+  width: 30%;
+  float: left;
+}
+
+
+</style>
+
+---
+
+class: center, top, inverse
+
+# Principaux constats
+
+---
+
+---
+
+
+class: inverse, center, middle
+
+# Merci !
+
+Contact : [guillaume@datactivist.coop](mailto:guillaume@datactivist.coop).
