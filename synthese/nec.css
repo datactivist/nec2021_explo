@@ -1,12 +1,13 @@
 /* general nec */
 
-.nec_h2{
+.nec_title{
   color: white;
   background: black;  
 }
 
 .nec {
-  background-image: url("https://raw.githubusercontent.com/datactivist/nec2021_explo/main/synthese/img/nec2021_slideshow_bg.png")
+  background-image: url("https://raw.githubusercontent.com/datactivist/nec2021_explo/main/synthese/img/nec2021_slideshow_bg.png");
+  background-position: contain;
 }
 
 
