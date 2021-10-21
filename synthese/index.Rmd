@@ -5,7 +5,11 @@ author: "Sylvain Lapoix, Datactivist &<br>Romain Le Gall, Numéricité"
 date: "01/09/2021"
 output:
   SlidesDatactivist::moon_reader:
-    css: [default, datactivist, datactivist-fonts]
+    css:
+      - default
+      - datactivist
+      - datactivist-fonts
+      - "nec.css"
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -26,80 +30,14 @@ layout: true
 <style type="text/css">
 
 
-.yellow-h{
-   background: #ffff88;
-}
-
-.blue-h{
-   background: #83c7fc;
-}
-
-.red-h{
-   background: #A77694;
-}
-
-
-.caption {
-  text-align: right;
-  font-size: .8rem;
-}
-
-.redred {
-  color: #ff0000;
-}
-
-.green {
-  color: #00ff00;
-}
-
-.orange {
-  color: #ffa500;
-
-}
-
-
-.blue {
-  color: #0000ff;
-
-}
-
-.quote {
-  font-family: 'Rokkitt';
-  font-weight: bold;
-  font-style: italic;
-  font-size: 20px;
-}
-
-
-
-.pull-left-wide {
-  width: 65%;
-  float: left;
-}
-
-.pull-right-wide {
-  width: 65%;
-  float: right;
-}
-
-.pull-right-narrow {
-  width: 30%;
-  float: right;
-}
-
-.pull-left-narrow {
-  width: 30%;
-  float: left;
-}
-
 
 </style>
 
 ---
 
-class: center, top, inverse
+class: center, top, nec
 
-# Principaux constats
+## Test
 
 ---
 
